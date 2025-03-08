@@ -5,7 +5,7 @@ public class NumberGuessingGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Think of a number between 1 and 100, and I'll try to guess it!");
-        System.out.println("Respond with: 'high' (too high), 'low' (too low), or 'correct'.");
+        System.out.println("Respond with: 'high' (too high), 'low' (too low), or 'correct'."); 
 
         int low = 1, high = 100, guess;
         String feedback;
