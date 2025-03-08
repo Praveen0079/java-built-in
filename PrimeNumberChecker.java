@@ -8,7 +8,7 @@ public class PrimeNumberChecker {
         System.out.print("Enter a number to check if it's prime: ");
         int number = scanner.nextInt();
 
-        // Check if the number is prime
+        // Check if the number is prime 
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
         } else {
