@@ -5,7 +5,7 @@ public class GCD_LCM_Calculator {
         Scanner scanner = new Scanner(System.in);
 
         // Get user input
-        System.out.print("Enter the first number: ");
+        System.out.print("Enter the first number: "); 
         int num1 = scanner.nextInt();
 
         System.out.print("Enter the second number: ");
