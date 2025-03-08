@@ -7,7 +7,7 @@ public class MaxOfThreeNumbers {
         // Get user inputs
         System.out.print("Enter the first number: ");
         int num1 = getUserInput(scanner);
-
+ 
         System.out.print("Enter the second number: ");
         int num2 = getUserInput(scanner);
 
