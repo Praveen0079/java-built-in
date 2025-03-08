@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class GCD_LCM_Calculator {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); 
 
         // Get user input
         System.out.print("Enter the first number: "); 
